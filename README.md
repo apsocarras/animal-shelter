@@ -1,8 +1,8 @@
-# _Epic Animal Shelter__
+# _Epic Animal Shelter_
 
 #### By _**Alex Socarras**, **Auston Moos**_
 
-#### _Page about a fictional Animal Shelter__
+#### _Page about a fictional Animal Shelter_
 
 ## Technologies Used
 
