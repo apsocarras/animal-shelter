@@ -25,4 +25,5 @@ _No known bugs._
 
 _[MIT License](https://opensource.org/licenses/MIT)_
 
-Copyright (c) _10.11.22_ _Alejandro Socarras & David Jandron_
+Copyright (c) _10.11.22_ Alejandro Socarras & Auston Moos
+
