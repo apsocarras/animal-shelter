@@ -1,0 +1,11 @@
+.column {
+  float: left;
+  width: 30%;
+  background-color: aquamarine;
+  margin-right: 5px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.column h3 {
+  text-align: center;
+}
