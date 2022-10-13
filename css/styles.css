@@ -9,3 +9,7 @@
 .column h3 {
   text-align: center;
 }
+
+.column img {
+  width: 100%; /*Relative to parent div width, not the entire page*/
+}
